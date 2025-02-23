@@ -1,4 +1,4 @@
-** start of undefined **
+** start of html **
 
 <!DOCTYPE html>
 <html lang="en">
@@ -26,9 +26,9 @@
 </html>
 
 
-** end of undefined **
+** end of html **
 
-** start of undefined **
+** start of css**
 
 body {
     font-family: Arial, sans-serif;
@@ -78,9 +78,9 @@ button:hover {
 }
 
 
-** end of undefined **
+** end of css **
 
-** start of undefined **
+** start of JS **
 
 document.getElementById("check-btn").addEventListener("click", function() {
     const inputText = document.getElementById("text-input").value;
@@ -106,5 +106,5 @@ document.getElementById("check-btn").addEventListener("click", function() {
 });
 
 
-** end of undefined **
+** end of JS **
 
